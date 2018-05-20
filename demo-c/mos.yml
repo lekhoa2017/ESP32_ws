@@ -1,0 +1,30 @@
+author: mongoose-os
+description: A demo Mongoose OS firmware for C/C++
+version: 1.0
+
+libs_version: ${mos.version}
+modules_version: ${mos.version}
+mongoose_os_version: ${mos.version}
+
+tags:
+  - c
+
+sources:
+  - src
+
+filesystem:
+  - fs
+
+config_schema:
+ # - ["mqtt.server", "iot.eclipse.org:1883"]
+  - ["mqtt.server", "mqtt.googleapis.com:8883"]
+  - ["wifi.sta.enable", true]
+  - ["wifi.sta.ssid", "MyRepublic CD69"]
+  - ["wifi.sta.pass", "a2ckeq462x"]
+
+libs:
+  - origin: https://github.com/mongoose-os-libs/demo-bundle
+  - origin: https://github.com/mongoose-os-libs/adc
+
+# Used by the mos tool to catch mos binaries incompatible with this file format
+manifest_version: 2017-05-18

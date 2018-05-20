@@ -1,0 +1,1344 @@
+Handling lib "wifi"...
+Handling lib "rpc-uart"...
+Handling lib "rpc-service-fs"...
+Handling lib "demo-bundle"...
+Handling lib "ca-bundle"...
+Handling lib "adc"...
+Handling lib "rpc-service-config"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/demo-bundle" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs" does not exist, cloning...
+
+Hash is updated: "" -> "8f9f654da756a18eeeb902c847a57114ef070ca3"
+Hash is updated: "" -> "cce2d7be559256458a1f2ac39d756d6b2f6767ce"
+Hash is updated: "" -> "4fcc6e143b3423380723434cfaf6153de18f0548"
+Hash is updated: "" -> "7e3e5e3244e5d56714624c6bcc264a5c650b05c3"
+Hash is updated: "" -> "fec1c77df6513717037bafefd3cc70e1969a8dd7"
+Hash is updated: "" -> "354f394ea6142cf7958d1c03464326177cc90a4f"
+Hash is updated: "" -> "1d4c01f1932ebf49b8d4b8d54fa8b74f393432f9"
+Falling back to sources for "wifi" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/wifi/releases/download/2.2/libwifi-esp32.a)
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi"
+Handling lib "mongoose"...
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose" does not exist, cloning...
+
+Successfully fetched prebuilt binary for "demo-bundle" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/demo-bundle/lib/esp32/libdemo-bundle.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/demo-bundle"
+Handling lib "ota-http-server"...
+Handling lib "ota-http-client"...
+Handling lib "aws"...
+Handling lib "gcp"...
+The --lib flag was not given for it, checking repository
+Handling lib "http-server"...
+Handling lib "i2c"...
+Handling lib "atca"...
+Handling lib "dht"...
+Handling lib "neopixel"...
+Handling lib "dash"...
+Handling lib "pppos"...
+The --lib flag was not given for it, checking repository
+Handling lib "dns-sd"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Lib "wifi" is already handled, skipping
+The --lib flag was not given for it, checking repository
+Lib "adc" is already handled, skipping
+Handling lib "sntp"...
+Handling lib "ethernet"...
+The --lib flag was not given for it, checking repository
+Handling lib "shadow"...
+Lib "rpc-service-config" is already handled, skipping
+Handling lib "rpc-service-i2c"...
+The --lib flag was not given for it, checking repository
+Handling lib "vfs-dev-spi-flash"...
+Handling lib "rpc-service-ota"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Handling lib "ota-shadow"...
+Handling lib "bt-service-debug"...
+Handling lib "rpc-gatts"...
+Handling lib "esp32-touchpad"...
+Handling lib "azure"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/gcp" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-debug" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/esp32-touchpad" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+Handling lib "rpc-loopback"...
+Lib "ca-bundle" is already handled, skipping
+Handling lib "bt-service-config"...
+The --lib flag was not given for it, checking repository
+Lib "rpc-service-fs" is already handled, skipping
+Handling lib "watson"...
+Handling lib "rpc-mqtt"...
+Handling lib "rpc-service-atca"...
+Handling lib "rpc-service-gpio"...
+Handling lib "pwm"...
+The --lib flag was not given for it, checking repository
+Lib "rpc-uart" is already handled, skipping
+The --lib flag was not given for it, checking repository
+Handling lib "rpc-azure"...
+Handling lib "rpc-service-wifi"...
+Handling lib "spi"...
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-wifi" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-config" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-azure" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-gatts" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pppos" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/sntp" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-server" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-shadow" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback" does not exist, cloning...
+
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca" does not exist, cloning...
+
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-atca" does not exist, cloning...
+
+Successfully fetched prebuilt binary for "ca-bundle" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/lib/esp32/libca-bundle.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle"
+Lib "mongoose" is already handled, skipping
+Successfully fetched prebuilt binary for "rpc-service-config" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/lib/esp32/librpc-service-config.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config"
+Handling lib "rpc-common"...
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common" does not exist, cloning...
+
+Successfully fetched prebuilt binary for "adc" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/lib/esp32/libadc.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc"
+Successfully fetched prebuilt binary for "rpc-service-fs" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/lib/esp32/librpc-service-fs.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs"
+Lib "rpc-common" is already handled, skipping
+Successfully fetched prebuilt binary for "rpc-uart" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/lib/esp32/librpc-uart.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart"
+Lib "rpc-common" is already handled, skipping
+Hash is updated: "" -> "22166e042a608c6a79d44af36d65d2e71cbe0790"
+Hash is updated: "" -> "ab09ada25256b4b2d0ba754fa081aded8f99ea78"
+Hash is updated: "" -> "3e1936039ce171a5da53bd79b5c649b9d458cd30"
+Hash is updated: "" -> "3dc81f9411b09c026a0e5caf97a297ec5921ab1c"
+Hash is updated: "" -> "776950e4717f16b8bf317002f16913d873ec4e05"
+Hash is updated: "" -> "a515a228be768a17010412f42e7a3866dcc53a98"
+Hash is updated: "" -> "1883e8f92e40c869eb5317dfd520227808cbffef"
+Hash is updated: "" -> "3ebc7fda1eda5d7c8469b170e8ee447426c72b80"
+Hash is updated: "" -> "2814c37c524b4905bdab033f42e1f4f7c2fe8056"
+Hash is updated: "" -> "4d9a5d7bb8ab51272b8a2618e28f4c219f9891ca"
+Hash is updated: "" -> "99e444e69693f263d4fbd34390d9b735dc37b3bd"
+Hash is updated: "" -> "3326b76b453ecc10070d17f225256d08f52d778b"
+Hash is updated: "" -> "1ebf0e670444f5238b0b6151bb4dc4079c15beca"
+Hash is updated: "" -> "0cb30f20d68f8aa6456014cbd543af59f95a93b1"
+Hash is updated: "" -> "f489eabc4f7bc1c98f277ec8783eaec0491ba67b"
+Hash is updated: "" -> "21799787686dc2e060ccf50be20b772b6dfd725c"
+Hash is updated: "" -> "13713bea3ced211e90fa6b1c438883ab5835cdef"
+Hash is updated: "" -> "c5079863203c172fc5b6420c2c2557d4df9d2342"
+Successfully fetched prebuilt binary for "neopixel" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/lib/esp32/libneopixel.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel"
+Lib "mongoose" is already handled, skipping
+Hash is updated: "" -> "10146c32f97e94f7810e66841ed69a14790ac98d"
+Hash is updated: "" -> "b7b964d60b6467b23cdf6a952630971608ef4420"
+Hash is updated: "" -> "025dd1daa575b8b21e2f61296e2c57bd3454960d"
+Hash is updated: "" -> "783c6129d70abca2a2a8ab8fd9cb3a07bcb39959"
+Hash is updated: "" -> "a9adcc32ab43c755243b25b9e3980a7d4be793df"
+Hash is updated: "" -> "42260104218eaf4277f890cf8dcf8d8174d8fd0f"
+Hash is updated: "" -> "fd2fc406df1944d3f619d14f75cc4508a4e97a4f"
+Hash is updated: "" -> "3395d1b864c9f752190970f33fe8299537104d36"
+Hash is updated: "" -> "257799cc350bbfa209ba0d554a38a5d6b89e08c1"
+Hash is updated: "" -> "544c8a7f130f4438c8d3b547df673c5ea5011263"
+Hash is updated: "" -> "59e0658a69ed2b3e619eb8c65b72e6da96dc5fac"
+Hash is updated: "" -> "8938ae6e3939f7991366a2e066e1b2a16d3842d6"
+Falling back to sources for "azure" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/azure/releases/download/2.2/libazure-esp32.a)
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure"
+Lib "ca-bundle" is already handled, skipping
+Lib "shadow" is already handled, skipping
+Lib "sntp" is already handled, skipping
+Handling lib "mqtt"...
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt" does not exist, cloning...
+
+Hash is updated: "" -> "ba27671827bca716d842e6d68f8cb914dc492669"
+Falling back to sources for "atca" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/atca/releases/download/2.2/libatca-esp32.a)
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca"
+Lib "i2c" is already handled, skipping
+Falling back to sources for "dns-sd" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/dns-sd/releases/download/2.2/libdns-sd-esp32.a)
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd"
+Lib "http-server" is already handled, skipping
+Lib "ethernet" is optional, skipping
+Lib "wifi" is optional, skipping
+Falling back to sources for "http-server" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/http-server/releases/download/2.2/libhttp-server-esp32.a)
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server"
+Lib "mongoose" is already handled, skipping
+Lib "ethernet" is optional, skipping
+Lib "atca" is optional, skipping
+Lib "wifi" is optional, skipping
+Hash is updated: "" -> "d760573bd8482a7b43a58500b71dca20e71fc3a4"
+Hash is updated: "" -> "585d0aecd23f24d627d96ba7cccd743b3383d12d"
+Falling back to sources for "rpc-common" (failed to fetch prebuilt binary: got 404 status code when accessed https://github.com/mongoose-os-libs/rpc-common/releases/download/2.2/librpc-common-esp32.a)
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common"
+Lib "http-server" is optional, skipping
+Successfully fetched prebuilt binary for "pppos" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pppos/lib/esp32/libpppos.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pppos"
+Lib "mongoose" is already handled, skipping
+Hash is updated: "" -> "5b1841914ea360fc1ebf5d8a1c965845e5885ddd"
+Successfully fetched prebuilt binary for "rpc-azure" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-azure/lib/esp32/librpc-azure.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-azure"
+Lib "rpc-common" is already handled, skipping
+Lib "azure" is already handled, skipping
+Successfully fetched prebuilt binary for "shadow" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/lib/esp32/libshadow.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow"
+Lib "mongoose" is already handled, skipping
+Successfully fetched prebuilt binary for "sntp" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/sntp/lib/esp32/libsntp.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/sntp"
+Successfully fetched prebuilt binary for "esp32-touchpad" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/esp32-touchpad/lib/esp32/libesp32-touchpad.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/esp32-touchpad"
+Lib "mongoose" is already handled, skipping
+Successfully fetched prebuilt binary for "bt-service-debug" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-debug/lib/esp32/libbt-service-debug.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-debug"
+Handling lib "bt-common"...
+The --lib flag was not given for it, checking repository
+Repository "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common" does not exist, cloning...
+
+Successfully fetched prebuilt binary for "watson" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/lib/esp32/libwatson.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson"
+Lib "ca-bundle" is already handled, skipping
+Lib "mqtt" is already handled, skipping
+Successfully fetched prebuilt binary for "pwm" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/lib/esp32/libpwm.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm"
+Lib "mongoose" is already handled, skipping
+Successfully fetched prebuilt binary for "dht" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/lib/esp32/libdht.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht"
+Successfully fetched prebuilt binary for "rpc-service-wifi" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-wifi/lib/esp32/librpc-service-wifi.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-wifi"
+Lib "rpc-common" is already handled, skipping
+Lib "wifi" is already handled, skipping
+Successfully fetched prebuilt binary for "rpc-gatts" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-gatts/lib/esp32/librpc-gatts.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-gatts"
+Lib "bt-common" is already handled, skipping
+Lib "rpc-common" is already handled, skipping
+Successfully fetched prebuilt binary for "ethernet" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/lib/esp32/libethernet.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet"
+Lib "mongoose" is already handled, skipping
+Successfully fetched prebuilt binary for "ota-http-server" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-server/lib/esp32/libota-http-server.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-server"
+Lib "http-server" is already handled, skipping
+Lib "ota-http-client" is already handled, skipping
+Successfully fetched prebuilt binary for "rpc-service-atca" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-atca/lib/esp32/librpc-service-atca.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-atca"
+Lib "atca" is already handled, skipping
+Lib "rpc-common" is already handled, skipping
+Successfully fetched prebuilt binary for "rpc-service-gpio" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/lib/esp32/librpc-service-gpio.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio"
+Lib "rpc-common" is already handled, skipping
+Successfully fetched prebuilt binary for "bt-service-config" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-config/lib/esp32/libbt-service-config.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-config"
+Lib "bt-common" is already handled, skipping
+Successfully fetched prebuilt binary for "rpc-loopback" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/lib/esp32/librpc-loopback.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback"
+Lib "rpc-common" is already handled, skipping
+Successfully fetched prebuilt binary for "ota-http-client" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/lib/esp32/libota-http-client.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client"
+Successfully fetched prebuilt binary for "rpc-service-i2c" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/lib/esp32/librpc-service-i2c.a"
+Lib "mongoose" is already handled, skipping
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c"
+Lib "i2c" is already handled, skipping
+Lib "rpc-common" is already handled, skipping
+Successfully fetched prebuilt binary for "rpc-service-ota" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/lib/esp32/librpc-service-ota.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota"
+Lib "ota-http-client" is already handled, skipping
+Lib "rpc-common" is already handled, skipping
+Successfully fetched prebuilt binary for "gcp" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/gcp/lib/esp32/libgcp.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/gcp"
+Lib "ca-bundle" is already handled, skipping
+Lib "sntp" is already handled, skipping
+Lib "mqtt" is already handled, skipping
+Successfully fetched prebuilt binary for "vfs-dev-spi-flash" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/lib/esp32/libvfs-dev-spi-flash.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash"
+Lib "spi" is already handled, skipping
+Successfully fetched prebuilt binary for "spi" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/lib/esp32/libspi.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi"
+Lib "mongoose" is already handled, skipping
+Successfully fetched prebuilt binary for "i2c" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/lib/esp32/libi2c.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c"
+Lib "mongoose" is already handled, skipping
+Successfully fetched prebuilt binary for "dash" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/lib/esp32/libdash.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash"
+Lib "ota-shadow" is already handled, skipping
+Lib "shadow" is already handled, skipping
+Lib "rpc-common" is already handled, skipping
+Successfully fetched prebuilt binary for "mongoose" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/lib/esp32/libmongoose.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose"
+Successfully fetched prebuilt binary for "aws" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/lib/esp32/libaws.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws"
+Lib "ca-bundle" is already handled, skipping
+Lib "shadow" is already handled, skipping
+Lib "mqtt" is already handled, skipping
+Hash is updated: "" -> "b6698638dccafd3347212e0f161556f1776617d5"
+Successfully fetched prebuilt binary for "rpc-mqtt" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/lib/esp32/librpc-mqtt.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt"
+Lib "mqtt" is already handled, skipping
+Lib "gcp" is optional, skipping
+Lib "watson" is optional, skipping
+Lib "azure" is optional, skipping
+Lib "aws" is optional, skipping
+Lib "rpc-common" is already handled, skipping
+Hash is updated: "" -> "e9c72e98fa35210a0bb5b0ef441f982cc75519eb"
+Hash is updated: "" -> "f5acd5efa35081803a12b23e772715daa53ce58d"
+Successfully fetched prebuilt binary for "mqtt" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/lib/esp32/libmqtt.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt"
+Lib "mongoose" is already handled, skipping
+Successfully fetched prebuilt binary for "ota-shadow" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-shadow/lib/esp32/libota-shadow.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-shadow"
+Lib "shadow" is already handled, skipping
+Successfully fetched prebuilt binary for "bt-common" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/lib/esp32/libbt-common.a"
+Prepared local dir: "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common"
+Lib "mongoose" is already handled, skipping
+The flag --repo is not given, going to use mongoose-os repository
+Sources: [/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/src/main.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/mgos_deps_init.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/esp32/src/esp32_adc.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/src/mgos_ca_bundle.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/src/mgos_i2c.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/esp32/src/esp32_i2c_master.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/src/mgos_atca.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/src/mgos_mqtt.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/src/mgos_shadow.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/src/mgos_aws.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/src/mgos_aws_greengrass.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/src/mgos_aws_shadow.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/sntp/src/mgos_sntp.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src/mgos_azure.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src/mgos_azure_cm.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src/mgos_azure_dm.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src/mgos_azure_sas.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src/mgos_azure_shadow.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/mgos_bt.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/mgos_bt_gap.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32/esp32_bt.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32/esp32_bt_gap.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32/esp32_bt_gattc.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32/esp32_bt_gatts.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-config/src/esp32/esp32_bt_svc_config.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-debug/src/esp32/esp32_bt_svc_debug.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src/mgos_eth.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src/esp32/esp32_eth.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/src/mgos_wifi.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/src/mjs_wifi.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/src/esp32_wifi.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/src/mgos_http_server.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc/mg_rpc.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc/mg_rpc_channel.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc/mg_rpc_channel_http.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc/mg_rpc_channel_ws.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mgos_rpc.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/src/mgos_dht.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src/mgos_dns_sd.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src/mgos_mdns.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src/lwip/lwip_mdns.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/esp32-touchpad/src/esp32_touchpad.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/gcp/src/mgos_gcp.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/src/mgos_neopixel.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pppos/src/mgos_pppos.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src/mgos_pwm.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src/esp32/esp32_pwm.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-azure/src/mgos_rpc_channel_azure_dm.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-gatts/src/esp32/esp32_rpc_channel_gatts.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/src/mg_rpc_channel_loopback.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/src/mgos_watson.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/src/mgos_rpc_channel_mqtt.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-atca/src/mgos_atca_service.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/src/mgos_service_config.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/src/mgos_service_filesystem.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/src/mgos_gpio_service.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/src/mgos_i2c_service.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-wifi/src/mgos_rpc_service_wifi.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/src/mgos_rpc_channel_uart.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src/mgos_spi.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src/mgos_spi_mjs.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src/esp32/esp32_spi_master.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/src/mgos_vfs_dev_spi_flash.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/demo-bundle/src/mgos_demo_bundle.c]
+Include dirs: [/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include/esp32 /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include/mg_rpc /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/include]
+Binary libs: [/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/lib/esp32/libmongoose.a /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-shadow/lib/esp32/libota-shadow.a /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/lib/esp32/libdash.a /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/lib/esp32/libota-http-client.a /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-server/lib/esp32/libota-http-server.a /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/lib/esp32/librpc-service-ota.a]
+Building...
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984" to "/app"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/modules/mongoose-os" to "/mongoose-os"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/modules/mongoose-os" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/modules/mongoose-os"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/esp32/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/esp32/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/esp32/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/esp32/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/sntp/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/sntp/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-config/src/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-config/src/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-debug/src/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-debug/src/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src/lwip" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src/lwip"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/esp32-touchpad/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/esp32-touchpad/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/gcp/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/gcp/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pppos/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pppos/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-azure/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-azure/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-gatts/src/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-gatts/src/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-atca/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-atca/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-wifi/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-wifi/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/demo-bundle/src" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/demo-bundle/src"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include/mg_rpc" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include/mg_rpc"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/include" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/include"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/fs" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/fs"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/fs" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/fs"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/lib/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/lib/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-shadow/lib/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-shadow/lib/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/lib/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/lib/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/lib/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/lib/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-server/lib/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-server/lib/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/lib/esp32" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/lib/esp32"
+mount from "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen" to "/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen"
+Docker arguments: run --name mos_build_2018-05-20T11-36-50-00_5686672398210967054 --rm -i -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/modules/mongoose-os:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/modules/mongoose-os -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include/mg_rpc:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include/mg_rpc -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/lib/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/lib/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/gcp/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/gcp/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/demo-bundle/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/demo-bundle/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/fs:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/fs -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/esp32-touchpad/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/esp32-touchpad/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/esp32/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/esp32/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pppos/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pppos/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-azure/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-azure/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/modules/mongoose-os:/mongoose-os -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-debug/src/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-debug/src/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/fs:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/fs -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src/lwip:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src/lwip -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/lib/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/lib/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-server/lib/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-server/lib/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-gatts/src/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-gatts/src/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-wifi/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-wifi/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-config/src/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-config/src/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/lib/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/lib/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/lib/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/lib/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-atca/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-atca/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-shadow/lib/esp32:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-shadow/lib/esp32 -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984:/app -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/sntp/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/sntp/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/esp32/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/esp32/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/include:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/include -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/src -v /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src:/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src --user 0:0 docker.cesanta.com/esp32-build:3.0-rc1-r9 /bin/bash -c nice make '-j' '16' '-C' '/app' '-f' '/mongoose-os/fw/platforms/esp32/Makefile.build' 'all' 'APP_BIN_LIBS=/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/lib/esp32/libmongoose.a /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-shadow/lib/esp32/libota-shadow.a /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/lib/esp32/libdash.a /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/lib/esp32/libota-http-client.a /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-server/lib/esp32/libota-http-server.a /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/lib/esp32/librpc-service-ota.a' 'APP=Timer-ADC-test' 'MGOS_HAVE_AWS=1' 'MGOS_HAVE_VFS_DEV_SPI_FLASH=1' 'MGOS_HAVE_SPI=1' 'MGOS_HAVE_RPC_SERVICE_FS=1' 'MGOS_HAVE_WIFI=1' 'MGOS_HAVE_DEMO_BUNDLE=1' 'MGOS_HAVE_DHT=1' 'MGOS_HAVE_GCP=1' 'MGOS_HAVE_DNS_SD=1' 'MGOS_HAVE_RPC_AZURE=1' 'MGOS_HAVE_RPC_UART=1' 'MGOS_ENABLE_SPI_GPIO=0' 'MGOS_HAVE_PWM=1' 'MANIFEST_FINAL=/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/mos_final.yml' 'MGOS_HAVE_OTA_HTTP_SERVER=1' 'MGOS_WIFI_ENABLE_AP_STA=1' 'MGOS_HAVE_I2C=1' 'APP_CFLAGS=-DMGOS_HAVE_ATCA=1 -DMGOS_HAVE_ETHERNET=1 -DMGOS_HAVE_VFS_DEV_SPI_FLASH=1 -DMGOS_HAVE_RPC_COMMON=1 -DMGOS_HAVE_SHADOW=1 -DMGOS_HAVE_ADC=1 -DMGOS_HAVE_BT_SERVICE_CONFIG=1 -DMGOS_HAVE_GCP=1 -DMGOS_HAVE_OTA_HTTP_CLIENT=1 -DMGOS_HAVE_SNTP=1 -DMGOS_HAVE_ESP32_TOUCHPAD=1 -DMG_ENABLE_MQTT=1 -DMGOS_HAVE_RPC_AZURE=1 -DMGOS_HAVE_AWS=1 -DMGOS_HAVE_CA_BUNDLE=1 -DMGOS_HAVE_RPC_SERVICE_CONFIG=1 -DMGOS_ENABLE_WEB_CONFIG=0 -DMGOS_HAVE_RPC_SERVICE_WIFI=1 -DMGOS_ETH_PHY_LAN87x0=1 -DMG_ENABLE_DNS=1 -DMGOS_HAVE_DASH=1 -DMGOS_HAVE_MONGOOSE=1 -DMGOS_HAVE_OTA_HTTP_SERVER=1 -DMGOS_WIFI_ENABLE_AP_STA=1 -DMGOS_HAVE_SPI=1 -DMGOS_HAVE_WIFI=1 -DMGOS_HAVE_I2C=1 -DMGOS_HAVE_RPC_GATTS=1 -DMGOS_HAVE_BT_COMMON=1 -DMG_ENABLE_DNS_SERVER=1 -DMGOS_HAVE_NEOPIXEL=1 -DMGOS_HAVE_BT_SERVICE_DEBUG=1 -DMGOS_HAVE_RPC_SERVICE_I2C=1 -DMGOS_HAVE_MQTT=1 -DMGOS_HAVE_RPC_SERVICE_FS=1 -DMGOS_ENABLE_RPC_CHANNEL_WS=1 -DMGOS_HAVE_OTA_SHADOW=1 -DMGOS_HAVE_DNS_SD=1 -DMGOS_ENABLE_FILE_UPLOAD=1 -DMGOS_HAVE_WATSON=1 -DMGOS_HAVE_AZURE=1 -DMG_ENABLE_SNTP=1 -DMGOS_HAVE_RPC_LOOPBACK=1 -DMGOS_HAVE_RPC_UART=1 -DMGOS_HAVE_DEMO_BUNDLE=1 -DMGOS_HAVE_DHT=1 -DMGOS_HAVE_HTTP_SERVER=1 -DMGOS_HAVE_PPPOS=1 -DMGOS_ENABLE_TUNNEL=0 -DMGOS_HAVE_RPC_SERVICE_GPIO=1 -DMGOS_HAVE_PWM=1 -DMGOS_HAVE_RPC_SERVICE_ATCA=1 -DMGOS_HAVE_RPC_MQTT=1 -DMGOS_HAVE_RPC_SERVICE_OTA=1 -DMGOS_ENABLE_RPC_CHANNEL_HTTP=1 -DMGOS_DNS_SD_HIDE_ADDITIONAL_INFO=0 -DMGOS_ENABLE_SYS_SERVICE=1' 'MGOS_HAVE_OTA_SHADOW=1' 'MGOS_HAVE_RPC_SERVICE_GPIO=1' 'ESP_IDF_EXTRA_COMPONENTS= bt' 'MGOS_HAVE_HTTP_SERVER=1' 'APP_FS_FILES=/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/fs/ca.pem /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/fs/index.html' 'MGOS_HAVE_RPC_SERVICE_I2C=1' 'MGOS_HAVE_RPC_LOOPBACK=1' 'MGOS_HAVE_BT_SERVICE_CONFIG=1' 'MGOS_HAVE_ESP32_TOUCHPAD=1' 'MGOS_HAVE_SHADOW=1' 'APP_CONF_SCHEMA=/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/mos_conf_schema.yml' 'MGOS_ENABLE_UPDATER=1' 'MGOS_HAVE_ADC=1' 'BUILD_DIR=/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs' 'FW_DIR=build/fw' 'MGOS_HAVE_RPC_SERVICE_OTA=1' 'MGOS_HAVE_PPPOS=1' 'MGOS_HAVE_DASH=1' 'GEN_DIR=/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen' 'FS_STAGING_DIR=build/fs' 'ESP_IDF_SDKCONFIG_OPTS= CONFIG_BT_ENABLED=y CONFIG_BLUEDROID_ENABLED=y CONFIG_BTC_TASK_STACK_SIZE=6144 CONFIG_BLUEDROID_MEM_DEBUG= CONFIG_CLASSIC_BT_ENABLED= CONFIG_BT_DRAM_RELEASE=y CONFIG_GATTS_ENABLE=y CONFIG_GATTC_ENABLE=y CONFIG_BLE_SMP_ENABLE=y CONFIG_BT_STACK_NO_LOG= CONFIG_BT_ACL_CONNECTIONS=4 CONFIG_BTDM_CONTROLLER_RUN_CPU=0 CONFIG_SMP_ENABLE=y CONFIG_BT_RESERVE_DRAM=0x10000  CONFIG_PPP_SUPPORT=y' 'MGOS_HAVE_RPC_SERVICE_WIFI=1' 'MGOS_HAVE_BT_COMMON=1' 'MGOS_ENABLE_I2C_GPIO=0' 'MGOS_HAVE_RPC_SERVICE_CONFIG=1' 'APP_VERSION=1.0' 'APP_SOURCES=/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/src/main.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/mgos_deps_init.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/esp32/src/esp32_adc.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/src/mgos_ca_bundle.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/src/mgos_i2c.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/esp32/src/esp32_i2c_master.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/src/mgos_atca.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/src/mgos_mqtt.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/src/mgos_shadow.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/src/mgos_aws.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/src/mgos_aws_greengrass.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/src/mgos_aws_shadow.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/sntp/src/mgos_sntp.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src/mgos_azure.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src/mgos_azure_cm.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src/mgos_azure_dm.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src/mgos_azure_sas.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/src/mgos_azure_shadow.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/mgos_bt.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/mgos_bt_gap.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32/esp32_bt.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32/esp32_bt_gap.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32/esp32_bt_gattc.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/src/esp32/esp32_bt_gatts.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-config/src/esp32/esp32_bt_svc_config.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-service-debug/src/esp32/esp32_bt_svc_debug.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src/mgos_eth.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ethernet/src/esp32/esp32_eth.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/src/mgos_wifi.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/src/mjs_wifi.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/src/esp32_wifi.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/src/mgos_http_server.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc/mg_rpc.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc/mg_rpc_channel.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc/mg_rpc_channel_http.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mg_rpc/mg_rpc_channel_ws.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/src/mgos_rpc.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/src/mgos_dht.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src/mgos_dns_sd.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src/mgos_mdns.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/src/lwip/lwip_mdns.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/esp32-touchpad/src/esp32_touchpad.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/gcp/src/mgos_gcp.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/src/mgos_neopixel.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pppos/src/mgos_pppos.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src/mgos_pwm.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/src/esp32/esp32_pwm.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-azure/src/mgos_rpc_channel_azure_dm.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-gatts/src/esp32/esp32_rpc_channel_gatts.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/src/mg_rpc_channel_loopback.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/src/mgos_watson.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/src/mgos_rpc_channel_mqtt.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-atca/src/mgos_atca_service.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/src/mgos_service_config.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/src/mgos_service_filesystem.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/src/mgos_gpio_service.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/src/mgos_i2c_service.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-wifi/src/mgos_rpc_service_wifi.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/src/mgos_rpc_channel_uart.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src/mgos_spi.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src/mgos_spi_mjs.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/src/esp32/esp32_spi_master.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/src/mgos_vfs_dev_spi_flash.c /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/demo-bundle/src/mgos_demo_bundle.c' 'MGOS_HAVE_OTA_HTTP_CLIENT=1' 'MGOS_HAVE_MONGOOSE=1' 'MGOS_HAVE_RPC_SERVICE_ATCA=1' 'MGOS_HAVE_RPC_COMMON=1' 'MGOS_HAVE_MQTT=1' 'PLATFORM=esp32' 'MGOS_HAVE_RPC_GATTS=1' 'MGOS_HAVE_BT_SERVICE_DEBUG=1' 'MGOS_HAVE_ETHERNET=1' 'MGOS_HAVE_SNTP=1' 'MGOS_HAVE_ATCA=1' 'MGOS_HAVE_NEOPIXEL=1' 'MGOS_HAVE_AZURE=1' 'MGOS_HAVE_CA_BUNDLE=1' 'APP_INCLUDES=/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/adc/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mongoose/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/i2c/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/atca/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/mqtt/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/shadow/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/aws/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/azure/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/bt-common/include/esp32 /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/wifi/esp32/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/http-server/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include/mg_rpc /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-common/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dash/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dht/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/dns-sd/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/neopixel/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ota-http-client/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/pwm/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-loopback/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/watson/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-mqtt/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-config/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-fs/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-gpio/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-i2c/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-service-ota/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/rpc-uart/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/spi/include /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/vfs-dev-spi-flash/include' 'FFI_SYMBOLS=' 'MGOS_HAVE_WATSON=1' 'MGOS_HAVE_RPC_MQTT=1' 'APP_CXXFLAGS=-DMGOS_ENABLE_TUNNEL=0 -DMGOS_HAVE_DHT=1 -DMGOS_HAVE_HTTP_SERVER=1 -DMGOS_HAVE_PPPOS=1 -DMGOS_HAVE_RPC_MQTT=1 -DMGOS_HAVE_RPC_SERVICE_OTA=1 -DMGOS_ENABLE_RPC_CHANNEL_HTTP=1 -DMGOS_HAVE_RPC_SERVICE_GPIO=1 -DMGOS_HAVE_PWM=1 -DMGOS_HAVE_RPC_SERVICE_ATCA=1 -DMGOS_DNS_SD_HIDE_ADDITIONAL_INFO=0 -DMGOS_ENABLE_SYS_SERVICE=1 -DMGOS_HAVE_RPC_COMMON=1 -DMGOS_HAVE_SHADOW=1 -DMGOS_HAVE_ADC=1 -DMGOS_HAVE_ATCA=1 -DMGOS_HAVE_ETHERNET=1 -DMGOS_HAVE_VFS_DEV_SPI_FLASH=1 -DMGOS_HAVE_SNTP=1 -DMGOS_HAVE_BT_SERVICE_CONFIG=1 -DMGOS_HAVE_GCP=1 -DMGOS_HAVE_OTA_HTTP_CLIENT=1 -DMGOS_HAVE_ESP32_TOUCHPAD=1 -DMG_ENABLE_MQTT=1 -DMGOS_HAVE_RPC_SERVICE_CONFIG=1 -DMGOS_HAVE_RPC_AZURE=1 -DMGOS_HAVE_AWS=1 -DMGOS_HAVE_CA_BUNDLE=1 -DMGOS_ENABLE_WEB_CONFIG=0 -DMGOS_HAVE_RPC_SERVICE_WIFI=1 -DMGOS_ETH_PHY_LAN87x0=1 -DMGOS_HAVE_OTA_HTTP_SERVER=1 -DMG_ENABLE_DNS=1 -DMGOS_HAVE_DASH=1 -DMGOS_HAVE_MONGOOSE=1 -DMGOS_WIFI_ENABLE_AP_STA=1 -DMGOS_HAVE_SPI=1 -DMGOS_HAVE_WIFI=1 -DMG_ENABLE_DNS_SERVER=1 -DMGOS_HAVE_NEOPIXEL=1 -DMGOS_HAVE_I2C=1 -DMGOS_HAVE_RPC_GATTS=1 -DMGOS_HAVE_BT_COMMON=1 -DMGOS_HAVE_BT_SERVICE_DEBUG=1 -DMGOS_HAVE_RPC_SERVICE_I2C=1 -DMGOS_HAVE_MQTT=1 -DMGOS_HAVE_RPC_SERVICE_FS=1 -DMGOS_ENABLE_RPC_CHANNEL_WS=1 -DMGOS_HAVE_OTA_SHADOW=1 -DMGOS_HAVE_AZURE=1 -DMGOS_HAVE_DNS_SD=1 -DMGOS_ENABLE_FILE_UPLOAD=1 -DMGOS_HAVE_WATSON=1 -DMGOS_HAVE_DEMO_BUNDLE=1 -DMG_ENABLE_SNTP=1 -DMGOS_HAVE_RPC_LOOPBACK=1 -DMGOS_HAVE_RPC_UART=1' 'MGOS_PATH=/mongoose-os'
+make: Entering directory '/app'
+/mongoose-os/fw/platforms/esp32/Makefile.build:178: warning: overriding recipe for target 'defconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:75: warning: ignoring old recipe for target 'defconfig'
+/mongoose-os/fw/platforms/esp32/Makefile.build:178: warning: overriding recipe for target 'menuconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:62: warning: ignoring old recipe for target 'menuconfig'
+GENCONFIG
+#
+# configuration written to /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/sdkconfig
+#
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cs_mbedtls'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spiffs'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/xtensa-debug-module'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/vfs'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/tcpip_adapter'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spi_flash'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/mosapp'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/newlib'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/micro-ecc'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/pthread'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/nvs_flash'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cs_mbedtls'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/partition_table'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/partition_table'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/tcpip_adapter'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/log'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spi_flash'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spiffs'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/micro-ecc'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/heap'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/vfs'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esptool_py'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/nvs_flash'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/xtensa-debug-module'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/mosapp'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esptool_py'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/ethernet'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/newlib'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cxx'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp_adc_cal'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/pthread'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_update'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_trace'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/heap'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/log'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/ethernet'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cxx'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp_adc_cal'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_trace'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_update'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support'
+Building partitions from /mongoose-os/fw/platforms/esp32/src/partitions_mgos.csv...
+make[1]: Entering directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_trace'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_update'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_update/esp_ota_ops.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cxx'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp_adc_cal'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver'
+CXX /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cxx/cxx_guards.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/ethernet'
+CXX /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cxx/cxx_exception_stubs.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp_adc_cal/esp_adc_cal.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/spi_common.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/spi_master.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/bootloader_flash.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/ethernet/emac_dev.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/heap'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_trace/app_trace_util.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/log'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/ringbuf.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/heap/heap_caps_init.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/log/log.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat/library/xmltok_ns.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/panic.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat/library/xmltok.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/ethernet/emac_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_trace/host_file_io.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/flash_qio_mode.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp_adc_cal/libesp_adc_cal.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_trace/app_trace.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/sigmadelta.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp_adc_cal'
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_update/libapp_update.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/api/pppapi.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/stack_check.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/heap/heap_caps.o
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/main'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat/library/xmlparse.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_update'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_trace/gcov/gcov_rtio.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/bootloader_init.o
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/main'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/efuse.o
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc'
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/log/liblog.a
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/log'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/event_default_handlers.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/task_wdt.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/micro-ecc'
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc'
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/micro-ecc'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/micro-ecc/micro-ecc/uECC.o
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/micro-ecc'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/ethernet/eth_phy/phy_common.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/ethernet/eth_phy/phy_lan8720.o
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/spi_flash'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/xtensa_intr.o
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/spi_flash'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/api/netdb.o
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/log'
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_trace/libapp_trace.a
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/app_trace'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/ethernet/eth_phy/phy_tlk110.o
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/log'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/newlib'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/newlib/time.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/newlib/reent_init.o
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/queue.o
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/uart.o
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/esptool_py'
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/esptool_py'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/bootloader_utility.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/sleep_modes.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/api/api_lib.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/heap/multi_heap.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/api/netifapi.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/api/tcpip.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/ethernet/libethernet.a
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/ethernet'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/nvs_flash'
+CXX /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/nvs_flash/src/nvs_types.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/heap/heap_trace.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/newlib/syscalls.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cxx/libcxx.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/bootloader_common.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/newlib/syscall_table.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cxx'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/secure_boot.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/newlib/locks.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/api/netbuf.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/pthread'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/pthread/pthread_local_storage.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/api/err.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/api/api_msg.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/cpu_start.o
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/bootloader_flash.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/spiram.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/croutine.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/bootloader_clock.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/newlib/libnewlib.a
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/heap/libheap.a
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/newlib'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/heap'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/flash_partitions.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc/esp32/rtc_pm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/pthread/pthread_cond_var.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/pthread/pthread.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/secure_boot_signatures.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc/esp32/cpu_util.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/esp_image_format.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/flash_qio_mode.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/lib_printf.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/list.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc/esp32/rtc_init.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc/esp32/soc_memory_layout.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/bootloader_sha.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/flash_encrypt.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/src/bootloader_random.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc/esp32/rtc_sleep.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/gdbstub.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/xtensa_init.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/efuse.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/bootloader_init.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat/library/xmlrole.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/wifi_internal.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/port.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/pthread/libpthread.a
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/micro-ecc/libmicro-ecc.a
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/pthread'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/event_groups.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/micro-ecc'
+CXX /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/nvs_flash/src/nvs_page.o
+CXX /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/nvs_flash/src/nvs_pagemanager.o
+CXX /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/nvs_flash/src/nvs_storage.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support/libbootloader_support.a
+CXX /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/nvs_flash/src/nvs_item_hash_list.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/crosscore_int.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader_support'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/api/sockets.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc/esp32/rtc_time.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/phy_init.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/sdspi_transaction.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/pm_trace.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/bootloader_utility.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc/esp32/rtc_clk.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/timers.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/tasks.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/FreeRTOS-openocd.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/apps/dhcpserver.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/i2s.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/xtensa_overlay_os_hook.o
+AS /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/xtensa_intr_asm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/wifi_init.o
+AS /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/xtensa_context.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/bootloader_common.o
+AS /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/xtensa_vectors.o
+AS /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/xtensa_vector_defaults.o
+AS /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/portasm.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc/libsoc.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/esp_timer_esp32.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/soc'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spi_flash'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/spiram_psram.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spi_flash/partition.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/clk.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spi_flash/flash_mmap.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/secure_boot.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/freertos_hooks.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/apps/sntp/sntp.o
+CXX /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/nvs_flash/src/nvs_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spi_flash/spi_flash_rom_patch.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spi_flash/cache_utils.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/tcpip_adapter'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/bootloader_clock.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/tcpip_adapter/tcpip_adapter_lwip.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/secure_boot_signatures.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/fast_crypto_ops.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/cache_err_int.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/apps/ping/ping.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/flash_partitions.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/ipc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/intr_alloc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/ets_timer_legacy.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spi_flash/flash_ops.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/apps/ping/esp_ping.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/esp_image_format.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/mem.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/core_dump.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/inet_chksum.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/init.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/coexist.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos/libfreertos.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/pm_locks.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/freertos'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/memp.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/vfs'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat/library/xmltok_impl.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/vfs/vfs_uart.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/sys.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/event_loop.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/bootloader_sha.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spi_flash/libspi_flash.a
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spi_flash'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/periph_ctrl.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/xtensa-debug-module'
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/log'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/ledc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/aes-internal-enc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/xtensa-debug-module/eri.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/log/log.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/sdspi_host.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/sha256-internal.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/tcp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/md5-internal.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/tcpip_adapter/libtcpip_adapter.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/flash_encrypt.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/tcpip_adapter'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/xtensa-debug-module/trax.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/mosapp'
+  GEN   /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/mgos_config.c
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/dns.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/vfs/vfs.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/gpio.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/timer.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/pm_esp32.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/esp_err_to_name.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/log/liblog.a
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/log'
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/xtensa-debug-module/libxtensa-debug-module.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/hw_random.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/xtensa-debug-module'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spiffs'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spiffs/spiffs_cache.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/src/bootloader_random.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/aes-internal.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/esp_timer.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spiffs/spiffs_gc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/dport_access.o
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/spi_flash'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/spi_flash/spi_flash_rom_patch.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support/libbootloader_support.a
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader_support'
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/micro-ecc'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/micro-ecc/micro-ecc/uECC.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/sha1.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/aes-internal-dec.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/pcnt.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/restore.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/brownout.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/system_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/int_wdt.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat/port/minicheck.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/hwcrypto/sha.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/sdspi_crc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/aes-unwrap.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/hwcrypto/aes.o
+  GEN   /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/mgos_ro_vars.c
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/vfs/libvfs.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ip.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/spi_flash/libspi_flash.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/rmt.o
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/spi_flash'
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/vfs'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spiffs/spiffs_check.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spiffs/spiffs_nucleus.o
+  GEN   /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/ffi_exports.c
+CC esp32_nsleep100.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/crypto_internal-rsa.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat/port/expat_element.o
+AS /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/dport_panic_highint_hdl.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/raw.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/pbuf.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/netif.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/tcp_in.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/des-internal.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/nvs_flash/libnvs_flash.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib/lib/atca_command.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/nvs_flash'
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cs_mbedtls'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/mcpwm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat/port/chardata.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32/libesp32.a
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cs_mbedtls/libcs_mbedtls.a
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cs_mbedtls'
+CC mgos_debug.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/esp32'
+CC mgos_net.o
+make[1]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt'
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat/libexpat.a
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/expat'
+CC mgos_bitbang.o
+CC mgos_updater_common.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/stats.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/dh_group5.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib/lib/atca_iface.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/crypto_internal.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spiffs/spiffs_hydrogen.o
+CC mgos_config_util.o
+CC mgos_core_dump.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bt.o
+CC mgos_dlsym.o
+CC mgos_event.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/timers.o
+CC mgos_hal_freertos.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib/lib/atca_cfgs.o
+CC mgos_gpio.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib/lib/atca_device.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/aes-wrap.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/sdmmc_transaction.o
+CC mgos_init.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/micro-ecc/libmicro-ecc.a
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/micro-ecc'
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc'
+make[2]: Entering directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/main'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/main/bootloader_start.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib/lib/basic/atca_basic.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc/esp32/rtc_pm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/sha1-internal.o
+CC mgos_mmap_esp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/def.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/udp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc/esp32/cpu_util.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/dm/bta_dm_api.o
+CC mgos_mongoose.o
+  MKDIR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/fw_temp
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc/esp32/soc_memory_layout.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/main/libmain.a
+CC mgos_sys_config.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc/esp32/rtc_init.o
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/main'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/dm/bta_dm_sco.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc/esp32/rtc_sleep.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/dm/bta_dm_ci.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/spi_slave.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/sdmmc_host.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/i2c.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/mgos_config.o
+CC mgos_ro_vars.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/md4-internal.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spiffs/libspiffs.a
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/spiffs'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc/esp32/rtc_time.o
+  MKDIR /app/build/fw
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/dm/bta_dm_act.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/dm/bta_dm_pm.o
+CC mgos_hw_timers.o
+CC mgos_system.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc/esp32/rtc_clk.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/dm/bta_dm_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/dh_groups.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/sha256.o
+CC mgos_time.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/rc4.o
+CC mgos_timers.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/rtc_module.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/tcp_out.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv4/ip_frag.o
+CC mgos_uart.o
+CC mgos_utils.o
+CC mgos_vfs.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/md5.o
+CC mgos_vfs_dev.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/dm/bta_dm_cfg.o
+CC mgos_vfs_dev_ram.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv4/dhcp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/aes-cbc.o
+CC mgos_vfs_fs_spiffs.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc/libsoc.a
+make[2]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/soc'
+CC esp32_crypto.o
+CC esp32_debug.o
+LD /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader.elf
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/gatt/bta_gattc_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv4/ip4_addr.o
+CC esp32_exc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/sha1-pbkdf2.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib/lib/basic/atca_helpers.o
+CC esp32_fs.o
+CC esp32_fs_crypt.o
+CC esp32_vfs_dev_partition.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/bignum.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/gatt/bta_gatt_common.o
+esptool.py v2.3.1
+make[1]: Leaving directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/gatt/bta_gatts_api.o
+CC esp32_hal.o
+CC esp32_gpio.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/gatt/bta_gattc_cache.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/gatt/bta_gatts_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/gatt/bta_gattc_utils.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib/lib/host/atca_host.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/gatt/bta_gattc_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/gatt/bta_gatts_act.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/gatt/bta_gattc_ci.o
+CC esp32_hw_timers.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/gatt/bta_gattc_act.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/gatt/bta_gatts_utils.o
+CC esp32_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/hh/bta_hh_api.o
+CC esp32_uart.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv4/igmp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv4/ip4.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv4/autoip.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib/libcryptoauthlib.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/hh/bta_hh_utils.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/cryptoauthlib'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/crypto_internal-modexp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/crypto_internal-cipher.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv4/icmp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/hh/bta_hh_le.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/crypto/ms_funcs.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/hh/bta_hh_act.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/hh/bta_hh_main.o
+CC esp32_updater.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/hh/bta_hh_cfg.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/sdp/bta_sdp.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver/libdriver.a
+CC cs_crc32.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/driver'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/sdp/bta_sdp_act.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv6/ip6_frag.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/sdp/bta_sdp_cfg.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv6/dhcp6.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/sdp/bta_sdp_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/av/bta_av_api.o
+CC cs_dbg.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv6/inet6.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv6/ip6_addr.o
+CC cs_file.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/av/bta_av_ssm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/port/os_xtensa.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-wrap.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv6/ip6.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256-internal.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/av/bta_av_cfg.o
+CC cs_rbuf.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/av/bta_av_ci.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/av/bta_av_act.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv6/nd6.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/av/bta_av_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-cbc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-unwrap.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-modexp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-cipher.o
+CC json_utils.o
+CC frozen.o
+CC mgos_deps_init.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv6/mld6.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv6/ethip6.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/av/bta_av_sbc.o
+CC main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/av/bta_av_aact.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/core/ipv6/icmp6.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/polarssl/des.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/ar/bta_ar.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/polarssl/sha1.o
+CC esp32_adc.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant/libwpa_supplicant.a
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/sys/bta_sys_main.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/wpa_supplicant'
+CC mgos_ca_bundle.o
+CC mgos_i2c.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/polarssl/md4.o
+CC esp32_i2c_master.o
+CC mgos_atca.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/polarssl/md5.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/polarssl/arc4.o
+/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/src/main.c: In function 'mgos_app_init':
+/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/src/main.c:107:8: warning: unused variable 'pin_is_enabled' [-Wunused-variable]
+   bool pin_is_enabled = mgos_adc_enable(36);
+        ^
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/sys/utl.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/sys/bta_sys_conn.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/eap.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/pppol2tp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/magic.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/jv/bta_jv_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/chap_ms.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/ppp.o
+CC mgos_mqtt.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/ecp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/chap-md5.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/vj.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/jv/bta_jv_act.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/ipv6cp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/ccp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/jv/bta_jv_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/bta/jv/bta_jv_cfg.o
+CC mgos_shadow.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/chap-new.o
+CC mgos_aws.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/auth.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btcore/bdaddr.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btif/bta_gatts_co.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/utils.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/pppoe.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btif/bta_dm_co.o
+CC mgos_aws_greengrass.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/pppcrypt.o
+CC mgos_aws_shadow.o
+CC mgos_sntp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btif/bta_gattc_co.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/multilink.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/device/interop.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/mppe.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/device/controller.o
+CC mgos_azure.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/pppos.o
+CC mgos_azure_cm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/hci/buffer_allocator.o
+CC mgos_azure_dm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/ipcp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/hci/hci_hal_h4.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/lcp.o
+CC mgos_azure_sas.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/eui64.o
+CC mgos_azure_shadow.o
+CC mgos_bt.o
+CC mgos_bt_gap.o
+CC esp32_bt.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/hci/hci_packet_parser.o
+CC esp32_bt_gap.o
+CC esp32_bt_gattc.o
+CC esp32_bt_gatts.o
+CC esp32_bt_svc_config.o
+CC esp32_bt_svc_debug.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/hci/packet_fragmenter.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/hci/hci_layer.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/hci/hci_packet_factory.o
+CC esp32_eth.o
+CC mgos_eth.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/demand.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/main/bte_main.o
+CC mgos_wifi.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/future.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/main/bte_init.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/upap.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/semaphore.o
+CC mjs_wifi.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/hash_map.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/fixed_queue.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/config.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ppp/fsm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/list.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/osi.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/mutex.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/hash_functions.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/buffer.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/alarm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/slipif.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/osi/allocator.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitstream-decode.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-sbc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-oina.o
+CC esp32_wifi.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/etharp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-dct8.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/framing.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ethernet.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/dequant.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/alloc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-8-generated.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitalloc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-private.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/lowpan6.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/oi_codec_version.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/framing-sbc.o
+CC mgos_http_server.o
+CC mg_rpc_channel.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/netif/ethernetif.o
+CC mg_rpc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/port/netif/wlanif.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-sbc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_packing.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/port/freertos/sys_arch.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitalloc-sbc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_dct.o
+CC mg_rpc_channel_http.o
+CC mg_rpc_channel_ws.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/port/netif/ethernetif.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_enc_bit_alloc_ste.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_analysis.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/port/debug/lwip_debug.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/port/vfs_lwip.o
+CC mgos_rpc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_enc_coeffs.o
+CC mgos_dht.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_enc_bit_alloc_mono.o
+CC mgos_dns_sd.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_dct_coeffs.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_encoder.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_util.o
+CC mgos_mdns.o
+CC lwip_mdns.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_task.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_dev.o
+CC esp32_touchpad.o
+CC mgos_gcp.o
+CC mgos_neopixel.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_storage.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_ble_storage.o
+CC mgos_pppos.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip/liblwip.a
+CC mgos_pwm.o
+CC esp32_pwm.o
+CC mgos_rpc_channel_azure_dm.o
+CC esp32_rpc_channel_gatts.o
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/lwip'
+CC mg_rpc_channel_loopback.o
+CC mgos_rpc_channel_mqtt.o
+CC mgos_watson.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_sm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_profile_queue.o
+CC mgos_atca_service.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_alarm.o
+CC mgos_service_config.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_manage.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_sec.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_config.o
+CC mgos_service_filesystem.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/core/btc_dm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/esp/blufi/blufi_prf.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/esp/blufi/blufi_protocol.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/gap/btc_gap_bt.o
+CC mgos_gpio_service.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/gap/btc_gap_ble.o
+CC mgos_i2c_service.o
+CC mgos_rpc_service_wifi.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gatts.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gatt_util.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gattc.o
+CC mgos_rpc_channel_uart.o
+CC mgos_spi.o
+CC mgos_spi_mjs.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gatt_common.o
+CC esp32_spi_master.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp_sink.o
+CC mgos_vfs_dev_spi_flash.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp_source.o
+CC mgos_demo_bundle.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/ffi_exports.o
+  GEN   /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/mg_build_info.c
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/a2dp/bta_av_co.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp_control.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_av.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/avrc/btc_avrc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/btc/profile/std/spp/btc_spp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_ble_batchscan.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_ble_cont_energy.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_sec.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_pm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_ble_adv_filter.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_inq.o
+CC mg_build_info.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_ble.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_dev.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_ble_privacy.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_acl.o
+  GEN   /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/build_info.c
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_ble_bgconn.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_ble_gap.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_ble_multi_adv.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_ble_addr.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_sco.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btm/btm_devctl.o
+CC build_info.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/mosapp/libmosapp.a
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/mosapp'
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btu/btu_task.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btu/btu_hcif.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/btu/btu_init.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gap/gap_ble.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gap/gap_conn.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gap/gap_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gap/gap_utils.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gatt/gatt_db.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gatt/gatt_cl.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gatt/gatt_attr.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gatt/gatt_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gatt/gatt_sr.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gatt/att_protocol.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gatt/gatt_auth.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gatt/gatt_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/gatt/gatt_utils.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/hcic/hciblecmds.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/hcic/hcicmds.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/l2cap/l2c_utils.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/l2cap/l2c_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/l2cap/l2c_ucd.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/l2cap/l2c_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/l2cap/l2cap_client.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/l2cap/l2c_csm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/l2cap/l2c_fcr.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/l2cap/l2c_link.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/l2cap/l2c_ble.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/sdp/sdp_utils.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/sdp/sdp_db.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/sdp/sdp_discovery.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/sdp/sdp_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/sdp/sdp_server.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/sdp/sdp_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/smp_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/smp_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/p_256_curvepara.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/smp_utils.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/smp_act.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/p_256_ecc_pp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/smp_br_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/aes.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/smp_keys.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/smp_cmac.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/p_256_multprecision.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/smp/smp_l2c.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avct/avct_lcb.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avct/avct_lcb_act.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avct/avct_l2c.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avct/avct_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avct/avct_ccb.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avrc/avrc_pars_ct.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avrc/avrc_opt.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avrc/avrc_bld_ct.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avrc/avrc_pars_tg.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avrc/avrc_utils.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avrc/avrc_bld_tg.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avrc/avrc_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avrc/avrc_sdp.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avdt/avdt_l2c.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avdt/avdt_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avdt/avdt_ccb.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avdt/avdt_ccb_act.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avdt/avdt_scb.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avdt/avdt_msg.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avdt/avdt_scb_act.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/a2dp/a2d_sbc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/avdt/avdt_ad.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/a2dp/a2d_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/rfcomm/rfc_port_if.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/rfcomm/rfc_port_fsm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/rfcomm/rfc_mx_fsm.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/rfcomm/port_rfc.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/rfcomm/port_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/rfcomm/port_utils.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/rfcomm/rfc_l2cap_if.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/rfcomm/rfc_ts_frames.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/stack/rfcomm/rfc_utils.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/api/esp_avrc_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/api/esp_spp_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/api/esp_bt_main.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/api/esp_bt_device.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/api/esp_gap_bt_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/api/esp_a2dp_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/api/esp_gattc_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/api/esp_blufi_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/api/esp_gap_ble_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/api/esp_gatts_api.o
+CC /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/bluedroid/api/esp_gatt_common_api.o
+AR /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt/libbt.a
+make[1]: Leaving directory '/fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bt'
+LD /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/Timer-ADC-test.elf
+esptool.py v2.3.1
+  Generating breakdown
+  CP    /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/libs/ca-bundle/fs/ca.pem -> build/fs
+  CP    /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/fs/index.html -> build/fs
+  CP    /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/gen/conf0.json -> build/fs
+  MKFS  /usr/local/bin/mkspiffs8 262144 4096 256 4096 build/fs -> /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/fw_temp/fs.img
+     Adding ca.pem: 18826
+     Adding conf0.json: 6333
+     Adding index.html: 70
+     Image stats: size=262144, space: total=233681, used=26606, free=207075
+  GEN    /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/fw_temp/manifest.json
+  ZIP    /app/build/fw/Timer-ADC-test-esp32-last.zip
+     Adding /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/fw_temp/Timer-ADC-test.bin
+     Adding /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/fw_temp/bootloader.bin
+     Adding /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/fw_temp/fs.img
+     Adding /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/fw_temp/otadata.bin
+     Adding /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/fw_temp/partitions_mgos.bin
+  Built Timer-ADC-test/esp32 version 1.0 (20180520-113658/???)
+To flash all build output, run 'make flash' or:
+python /opt/Espressif/esp-idf/components/esptool_py/esptool/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 1500000 --before default_reset --after hard_reset write_flash -z --flash_mode qio --flash_freq 40m --flash_size detect 0x1000 /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/bootloader/bootloader.bin 0x10000 /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/Timer-ADC-test.bin 0x8000 /fwbuild-volumes/2.2/apps/Timer-ADC-test/esp32/build_contexts/build_ctx_916850984/build/objs/partitions_mgos.bin
+make: Leaving directory '/app'
+Success, built Timer-ADC-test/esp32 version 1.0 (20180520-113658/???).
+Firmware saved to build/fw.zip

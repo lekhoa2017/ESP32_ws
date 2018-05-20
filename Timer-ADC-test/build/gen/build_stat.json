@@ -1,0 +1,6 @@
+{
+  "arch": "esp32",
+  "platform": "esp32",
+  "app_name": "Timer-ADC-test",
+  "build_time_ms": 34654
+}

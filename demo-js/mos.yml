@@ -1,0 +1,39 @@
+author: mongoose-os
+description: A JS-enabled demo Mongoose OS firmware
+# arch: PLATFORM
+version: 1.0
+manifest_version: 2017-05-18
+libs_version: ${mos.version}
+modules_version: ${mos.version}
+mongoose_os_version: ${mos.version}
+
+config_schema:
+ 
+  - ["i2c.enable", true]
+  - ["wifi.sta.enable", true]
+  - ["wifi.sta.ssid", "MyRepublic CD69"]
+  - ["wifi.sta.pass", "a2ckeq462x"]
+#   - ["wifi.sta.ssid", "OPTUS_6B18B3"]
+ #  - ["wifi.sta.pass", "moviepebas92880"]
+
+ # - ["gcp.device", "esp32_1F34B0"]
+ # - ["gcp.enable", true]
+ # - ["gcp.key", "gcp-esp32_1F34B0.key.pem"]
+ # - ["gcp.project", "helibot-cloud"]
+ # - ["gcp.region", "asia-east1"]
+ # - ["gcp.registry", "helibot-registry-1"]
+ # - ["mqtt.enable", true]
+ # - ["mqtt.server", "mqtt.googleapis.com:8883"]
+ # - ["mqtt.ssl_ca_cert", "ca.pem"]
+ # - ["rpc.mqtt.enable", false]
+ # - ["sntp.enable", true]
+
+
+tags:
+  - js
+
+filesystem:
+  - fs
+
+libs:
+  - origin: https://github.com/mongoose-os-libs/js-demo-bundle
